@@ -46,7 +46,7 @@ auth = """
  |[+]Contact  : azurax22@gmail.com            |
  |____________________________________________|
                         """
-print(la7mar+" Hello! Ripon. Welcome To")
+print(la7mar+" Hello! Bro... Welcome To")
 sleep(2)
 print(green+auth+la7mar)
 try:
